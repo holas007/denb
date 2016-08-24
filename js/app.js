@@ -6,6 +6,7 @@ var vaultTwentyNine=new google.maps.LatLng(45.962740, -66.642544);
 function initialize()
 {
 
+
 var myStyles =[
 {
     featureType: "poi",
