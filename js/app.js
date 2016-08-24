@@ -106,7 +106,7 @@ markerMain = new google.maps.Marker({
 //Creates the information to go in the pop-up info box.
 var boxTextMain = document.createElement("div");
 boxTextMain.style.cssText = pop_up_info;
-boxTextMain.innerHTML = '<span class="pop_up_box_text"><img src="content/glasto.jpg" width="400" height="285" border="0" /></span>';
+boxTextMain.innerHTML = '<div class="pop_up_box_text"><h1>Vault 29</h1><h3>Hours of Operations:</h3><p>Monday - Wednesday 11:00am - 12:00am<br>Thursday - Saturday 11:00am - 2:00am</p><h3>Phone Number:</h3><p>(506) 454-1929</p><h3>Specials:</h3><p>STEAK & ALE NIGHT $19.99<br>Join us every Thursday 5 PM ~ 11 PM<br>10 oz Strip loin and 18 oz Moosehead Premium Draft</p><h3>Reviews:</h3><br><br><br><p>426 Queen St, Fredericton, NB E3B 1B6, Canada</p></div>';
 
 //Sets up the configuration options of the pop-up info box.                
 var infoboxOptionsMain = {
