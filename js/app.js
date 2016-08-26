@@ -73,7 +73,7 @@ var markerPositionMain = new google.maps.LatLng(45.962740, -66.642544);
 
 //Setting the icon to be used with the Main map marker.
 var markerIconMain = {
-  url: 'icons/icon_glas_uk.png',
+  url: 'icons/vault29.png',
   //The size image file.
   size: new google.maps.Size(225, 120),
   //The point on the image to measure the anchor from. 0, 0 is the top left.
